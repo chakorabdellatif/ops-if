@@ -12,7 +12,7 @@ When something breaks in production, the first 10–15 minutes are wasted just a
 
 This happens every time. The tooling exists — Grafana, PagerDuty, GitHub Actions — but nothing connects it. Each system fires its own alert in isolation, and a human has to assemble the full picture under pressure.
 
-**incident-lens** holds that picture continuously, so by the time a human looks, the work is already done.
+**ops-if** holds that picture continuously, so by the time a human looks, the work is already done.
 
 ---
 
